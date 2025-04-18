@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDA3B94-71B8-464E-B7B8-05B8E0A50B14}|Task01\\Task01.csproj|d:\\2nd semester\\oopl\\oop_pds\\pd04\\task01\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDA3B94-71B8-464E-B7B8-05B8E0A50B14}|Task01\\Task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDA3B94-71B8-464E-B7B8-05B8E0A50B14}|Task01\\Task01.csproj|d:\\2nd semester\\oopl\\oop_pds\\pd04\\task01\\task01\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDA3B94-71B8-464E-B7B8-05B8E0A50B14}|Task01\\Task01.csproj|solutionrelative:task01\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDA3B94-71B8-464E-B7B8-05B8E0A50B14}|Task01\\Task01.csproj|d:\\2nd semester\\oopl\\oop_pds\\pd04\\task01\\task01\\angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDA3B94-71B8-464E-B7B8-05B8E0A50B14}|Task01\\Task01.csproj|solutionrelative:task01\\angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\Task01\\Ship.cs",
+              "RelativeDocumentMoniker": "Task01\\Ship.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\Task01\\Ship.cs",
+              "RelativeToolTip": "Task01\\Ship.cs",
+              "ViewState": "AgIAAAEAAAAAMzMzMzMrwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:06:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Angle.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\Task01\\Angle.cs",
+              "RelativeDocumentMoniker": "Task01\\Angle.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\Task01\\Angle.cs",
+              "RelativeToolTip": "Task01\\Angle.cs",
+              "ViewState": "AgIAABcAAAAAoJmZmZnJvyQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:05:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\Task01\\Program.cs",
+              "RelativeDocumentMoniker": "Task01\\Program.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\OOP_PDs\\Pd04\\Task01\\Task01\\Program.cs",
+              "RelativeToolTip": "Task01\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAMzMzMzMXwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:03:44.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
