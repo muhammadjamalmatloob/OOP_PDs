@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -50,8 +54,7 @@
               "RelativeToolTip": "Task01\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:50:54.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T07:50:54.78Z"
             },
             {
               "$type": "Document",
@@ -75,8 +78,7 @@
               "ToolTip": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Form1.cs [Design]",
               "RelativeToolTip": "Task01\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:39:37.205Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-27T07:39:37.205Z"
             }
           ]
         }

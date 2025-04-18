@@ -1,0 +1,21 @@
+Classic Cheese Burger,550
+Bacon Cheese Burger,600
+Chicken Burger,400
+Veggie Burger,250
+Grilled Chicken Sandwitch,280
+Roast Beef Sandwitch,350
+Veggie Delight Sandwtch,200
+Margherita Pizza,1500
+Pepperoni Pizza,1450
+BBQ Chicken Pizza,1800
+Veggie Pizza,1000
+Fried Chicken Tenders,800
+Chicken Nuggets,500
+Fried Rice,300
+French Fries,750
+Ice Cream,800
+Mango Milk Shake,500
+Strawberry Milk Shake,550
+Banana Milk Shake,450
+Chocalate Milk Shake,650
+Coca Cola,300
