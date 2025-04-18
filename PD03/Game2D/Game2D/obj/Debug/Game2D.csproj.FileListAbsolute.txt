@@ -1,0 +1,10 @@
+D:\2nd Semester\OOPL\Game2D\Game2D\bin\Debug\Game2D.exe.config
+D:\2nd Semester\OOPL\Game2D\Game2D\bin\Debug\Game2D.exe
+D:\2nd Semester\OOPL\Game2D\Game2D\bin\Debug\Game2D.pdb
+D:\2nd Semester\OOPL\Game2D\Game2D\obj\Debug\Game2D.csproj.AssemblyReference.cache
+D:\2nd Semester\OOPL\Game2D\Game2D\obj\Debug\Game2D.csproj.CoreCompileInputs.cache
+D:\2nd Semester\OOPL\Game2D\Game2D\obj\Debug\Game2D.exe
+D:\2nd Semester\OOPL\Game2D\Game2D\obj\Debug\Game2D.pdb
+D:\2nd Semester\OOPL\Game2D\Game2D\bin\Debug\EZInput.dll
+D:\2nd Semester\OOPL\Game2D\Game2D\bin\Debug\EZInput.xml
+D:\2nd Semester\OOPL\Game2D\Game2D\obj\Debug\Game2D.csproj.Up2Date

@@ -1,0 +1,7 @@
+E:\Code\SignUP\bin\Debug\SignUP.exe.config
+E:\Code\SignUP\bin\Debug\SignUP.exe
+E:\Code\SignUP\bin\Debug\SignUP.pdb
+E:\Code\SignUP\obj\Debug\SignUP.csproj.AssemblyReference.cache
+E:\Code\SignUP\obj\Debug\SignUP.csproj.CoreCompileInputs.cache
+E:\Code\SignUP\obj\Debug\SignUP.exe
+E:\Code\SignUP\obj\Debug\SignUP.pdb

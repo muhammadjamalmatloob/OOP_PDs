@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\randomghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\randomghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\ui\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\ui\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\verticalghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\verticalghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\smartghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\smartghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\dl\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\dl\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\mypacman\\pacman\\pacman\\horizontalghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\horizontalghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pacman.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Pacman.cs",
+              "RelativeDocumentMoniker": "PacMan\\Pacman.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Pacman.cs",
+              "RelativeToolTip": "PacMan\\Pacman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:33:43.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerticalGhost.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\VerticalGhost.cs",
+              "RelativeDocumentMoniker": "PacMan\\VerticalGhost.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\VerticalGhost.cs",
+              "RelativeToolTip": "PacMan\\VerticalGhost.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:07:13.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomGhost.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\RandomGhost.cs",
+              "RelativeDocumentMoniker": "PacMan\\RandomGhost.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\RandomGhost.cs",
+              "RelativeToolTip": "PacMan\\RandomGhost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:05:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\UI\\GameController.cs",
+              "RelativeDocumentMoniker": "PacMan\\UI\\GameController.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\UI\\GameController.cs",
+              "RelativeToolTip": "PacMan\\UI\\GameController.cs",
+              "ViewState": "AgIAAEkAAACAmZmZmZkjwFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:57:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Maze.cs",
+              "RelativeDocumentMoniker": "PacMan\\Maze.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Maze.cs",
+              "RelativeToolTip": "PacMan\\Maze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:53:33.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Scores.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\DL\\Scores.cs",
+              "RelativeDocumentMoniker": "PacMan\\DL\\Scores.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\DL\\Scores.cs",
+              "RelativeToolTip": "PacMan\\DL\\Scores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:52:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartGhost.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\SmartGhost.cs",
+              "RelativeDocumentMoniker": "PacMan\\SmartGhost.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\SmartGhost.cs",
+              "RelativeToolTip": "PacMan\\SmartGhost.cs",
+              "ViewState": "AgIAAB0AAAAAoJmZmZnpv3UAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:38:40.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HorizontalGhost.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\HorizontalGhost.cs",
+              "RelativeDocumentMoniker": "PacMan\\HorizontalGhost.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\HorizontalGhost.cs",
+              "RelativeToolTip": "PacMan\\HorizontalGhost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:38:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Ghost.cs",
+              "RelativeDocumentMoniker": "PacMan\\Ghost.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Ghost.cs",
+              "RelativeToolTip": "PacMan\\Ghost.cs",
+              "ViewState": "AgIAAAsAAABgZmZmZmYswBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:37:22.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\GameEntity.cs",
+              "RelativeDocumentMoniker": "PacMan\\GameEntity.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\GameEntity.cs",
+              "RelativeToolTip": "PacMan\\GameEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:32:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Program.cs",
+              "RelativeDocumentMoniker": "PacMan\\Program.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\MyPacMan\\PacMan\\PacMan\\Program.cs",
+              "RelativeToolTip": "PacMan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:27:07.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

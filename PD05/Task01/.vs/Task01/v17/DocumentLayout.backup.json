@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd Semester\\OOPL\\Task01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|d:\\2nd semester\\oopl\\task01\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|D:\\2nd Semester\\OOPL\\Task01\\task01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|solutionrelative:task01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|d:\\2nd semester\\oopl\\task01\\task01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|solutionrelative:task01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|d:\\2nd semester\\oopl\\task01\\task01\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4F8A9B30-7918-4D8D-8531-ED4E7FF13E82}|Task01\\Task01.csproj|solutionrelative:task01\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Task01\\Report1.rdlc",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Report1.rdlc [Design]",
+              "RelativeToolTip": "Task01\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-02-27T08:31:47.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Product.cs",
+              "RelativeDocumentMoniker": "Task01\\Product.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Product.cs",
+              "RelativeToolTip": "Task01\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:50:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Program.cs",
+              "RelativeDocumentMoniker": "Task01\\Program.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Program.cs",
+              "RelativeToolTip": "Task01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:46:45.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Form1.cs",
+              "RelativeDocumentMoniker": "Task01\\Form1.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Task01\\Task01\\Form1.cs [Design]",
+              "RelativeToolTip": "Task01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:39:37.205Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

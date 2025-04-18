@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd Semester\\OOPL\\Game2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|D:\\2nd Semester\\OOPL\\Game2D\\game2d\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|solutionrelative:game2d\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|D:\\2nd Semester\\OOPL\\Game2D\\game2d\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|solutionrelative:game2d\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|d:\\2nd semester\\oopl\\game2d\\game2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|solutionrelative:game2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|D:\\2nd Semester\\OOPL\\Game2D\\game2d\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52F2D9B-838B-4DF8-A211-8F268745D861}|Game2D\\Game2D.csproj|solutionrelative:game2d\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\Enemy.cs",
+              "RelativeDocumentMoniker": "Game2D\\Enemy.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\Enemy.cs",
+              "RelativeToolTip": "Game2D\\Enemy.cs",
+              "ViewState": "AgIAACUAAACgmZmZmZk5wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:33:01.282Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Game2D\\ConsoleHelper.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\ConsoleHelper.cs",
+              "RelativeToolTip": "Game2D\\ConsoleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:25:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\Player.cs",
+              "RelativeDocumentMoniker": "Game2D\\Player.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\Player.cs",
+              "RelativeToolTip": "Game2D\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:32:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\Program.cs",
+              "RelativeDocumentMoniker": "Game2D\\Program.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\Game2D\\Game2D\\Program.cs",
+              "RelativeToolTip": "Game2D\\Program.cs",
+              "ViewState": "AgIAAA4AAADAzMzMzMwmwF8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:31:47.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

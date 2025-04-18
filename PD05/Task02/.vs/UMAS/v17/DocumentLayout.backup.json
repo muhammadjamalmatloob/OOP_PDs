@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd Semester\\OOPL\\UMAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452077B6-0081-4B40-A1F5-C3E83A7A7506}|UMAS\\UMAS.csproj|d:\\2nd semester\\oopl\\umas\\umas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452077B6-0081-4B40-A1F5-C3E83A7A7506}|UMAS\\UMAS.csproj|solutionrelative:umas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\UMAS\\UMAS\\Program.cs",
+              "RelativeDocumentMoniker": "UMAS\\Program.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\UMAS\\UMAS\\Program.cs",
+              "RelativeToolTip": "UMAS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:46:00.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
