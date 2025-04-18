@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd Semester\\OOPL\\PacMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|d:\\2nd semester\\oopl\\pacman\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFB7A8B-6591-49C0-AFB6-CE6B3C182606}|PacMan\\PacMan.csproj|solutionrelative:pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd Semester\\OOPL\\PacMan\\PacMan\\Program.cs",
+              "RelativeDocumentMoniker": "PacMan\\Program.cs",
+              "ToolTip": "D:\\2nd Semester\\OOPL\\PacMan\\PacMan\\Program.cs",
+              "RelativeToolTip": "PacMan\\Program.cs",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:08:46.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

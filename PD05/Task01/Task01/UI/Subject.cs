@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task01
+namespace Task01.UI
 {
-    internal class Program
+    internal class Subject
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
